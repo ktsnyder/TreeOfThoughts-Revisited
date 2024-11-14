@@ -75,7 +75,7 @@ The authors also analyze computational costs, showing ToT requires more compute 
 
 Error analysis shows ToT's advantages come from avoiding early mistakes through its exploration capability. For example, in Game of 24, about 60% of CoT attempts fail after the first operation, while ToT can explore multiple initial operations.
 
-![ToT-Table2-Fig3](Images/ToT-Table-2-Fig-3-game-of-24-results.png)
+![ToT-Table2-Fig3](Images/ToT-Fig-3b-game-of-24-results-error.png)
 
 # Architecture Overview
 
