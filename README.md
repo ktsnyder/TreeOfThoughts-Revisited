@@ -41,7 +41,7 @@ ToT models reasoning as a search problem through a tree of thoughts. Each though
 # Evaluation
 
 ## Tasks
-ToT was evaluated on three challenging tasks that require different types of reasoning:
+ToT was evaluated on three tasks that require different types of reasoning:
 
 * **Game of 24:** Players must use four numbers and basic arithmetic operations (+, -, *, /) to create an expression equaling 24. This tests mathematical reasoning and requires exploring different operation sequences.
   
